@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John doe",
+      "email": "me@me.com",
+      "age": 32
+    },
+    {
+      "id": "2",
+      "name": "Jane doe",
+      "email": "me@jane.com",
+      "age": 25
+    },
+    {
+      "id": "3",
+      "name": "Erce kal",
+      "email": "me@erce.com",
+      "age": 15
+    },
+    {
+      "name": "Yolannn",
+      "email": "me@me.com",
+      "age": 32,
+      "id": "OsIOgPAQL"
+    },
+    {
+      "name": "John doe",
+      "email": "me@me.com",
+      "age": 32,
+      "id": "fNrgN1Id7"
+    },
+    {
+      "name": "John doe",
+      "email": "me@me.com",
+      "age": 32,
+      "id": "V74qXaBpx6"
+    }
+  ]
+}
